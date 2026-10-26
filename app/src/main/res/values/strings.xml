@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AutoCall Rec</string>
+    <string name="tab_recordings">Enregistrements</string>
+    <string name="tab_filter_rules">Filtres Numéros</string>
+    <string name="tab_simulator">Simulateur d\'appel</string>
+    <string name="tab_settings">Paramètres</string>
+    <string name="recording_active">Enregistrement en cours…</string>
+    <string name="call_unknown">Numéro inconnu (Hors contacts)</string>
+    <string name="call_contact">Contact enregistré</string>
+    <string name="notification_channel_name">Service d\'enregistrement d\'appels</string>
+    <string name="notification_channel_desc">Affiche l\'état de la détection et de l\'enregistrement d\'appels</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "AutoCall Rec",
+  "description": "Enregistreur d'appels automatique avec sauvegarde locale et filtrage intelligent des numéros inconnus hors répertoire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
